@@ -21,3 +21,29 @@ Perfect for beginners learning `printf()` and `scanf()` usage!
 - Data types (`float`)  
 - Input/Output (`scanf()` & `printf()`)  
 - Arithmetic operators  
+
+---
+
+🧰 **Tools & Tech**
+
+- **Language:** C  
+- **IDE:** Any C Compiler (VS Code, Code::Blocks, Turbo C++, etc.)  
+- **Platform:** Windows / Linux / macOS  
+
+---
+
+📚 **What I Learned**
+
+- Using `printf()` and `scanf()` for input/output operations  
+- Performing arithmetic calculations using variables and operators  
+- Applying real-world physics formulas (Celsius → Fahrenheit → Kelvin) in C  
+- Understanding the use of **float precision** for accurate decimal outputs  
+- Structuring clean, readable code with proper formatting and comments  
+
+✨ Author:-
+
+Omkar Rele Mechanical Engineering Student 🛠️ Passionate about Cars, Code, and Creation 🚗💻⚡
+
+⭐ Don’t forget to star this repo if you like it!
+
+Let’s keep the engines roaring 🏎️🔥
