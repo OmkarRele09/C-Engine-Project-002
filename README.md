@@ -3,7 +3,7 @@
 🚀 Part of my **C-Engine Series** — beginner-friendly projects designed to strengthen C fundamentals while linking coding with real-world mechanical logic.
 
 ---
-
+Here is the link to the code :- https://github.com/OmkarRele09/C-Engine-Project-002/blob/main/thermoconverter.c
 ## 💡 About
 A simple but powerful program that converts **Celsius** temperature into both **Fahrenheit** and **Kelvin** using direct arithmetic formulas.  
 Perfect for beginners learning `printf()` and `scanf()` usage!
